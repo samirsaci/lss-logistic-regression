@@ -12,11 +12,11 @@ Lean Six Sigma (LSS) is a method based on a stepwise approach to process improve
 ### Youtube Video
 Find in the link below a short animated explained video to understand the concept behind this solution
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=-C6Zr5wB1rk"><img src="https://i.ytimg.com/an_webp/-C6Zr5wB1rk/mqdefault_6s.webp?du=3000&sqp=CKiKhZEG&rs=AOn4CLC45JfNIYyI01oKhXa2cghzWek7oQ" alt="Explainer Video Link"></a>
+  <a href="https://www.youtube.com/watch?v=-C6Zr5wB1rk"><img src="https://github.com/samirsaci/lss-logistic-regression/blob/main/thumbnail.webp" alt="Explainer Video Link"></a>
 </div>
 
-### Medium Article
-In this [Medium Article](https://towardsdatascience.com/lean-six-sigma-with-python-logistic-regression-36d160e84548), we will implement Logistic 
+### Article
+In this [Article](https://www.samirsaci.com/lean-six-sigma-with-python-logistic-regression/), we will implement Logistic 
 Regression with Python to estimate the impact of a daily productivity bonus on your warehouse operators picking productivity.
 
 ### Scenario
