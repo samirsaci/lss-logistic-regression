@@ -6,7 +6,7 @@
   <img align="center" src="https://miro.medium.com/max/1280/1*VKEztWWOO8ve3Fk3uzs60Q.png">
 </p>
 
-Lean Six Sigma (LSS) is a method based on a stepwise approach to process improvements.This approach usually follows 5 steps 
+Lean Six Sigma (LSS) is a method based on a stepwise approach to process improvements. This approach usually follows 5 steps. 
 (Define, Measure, Analyze, Improve and Control) for improving existing process problems with unknown causes.
 
 ### Youtube Video
@@ -16,8 +16,8 @@ Find in the link below a short animated explained video to understand the concep
 </div>
 
 ### Article
-In this [Article](https://www.samirsaci.com/lean-six-sigma-with-python-logistic-regression/), we will implement Logistic 
-Regression with Python to estimate the impact of a daily productivity bonus on your warehouse operators picking productivity.
+In this [Article](https://towardsdatascience.com/lean-six-sigma-with-python-logistic-regression-36d160e84548), we will implement Logistic 
+Regression with Python to estimate the impact of a daily productivity bonus on your warehouse operators' picking productivity.
 
 ### Scenario
 You are Reginal Director of a Logistic Company (3PL) and you have 22 warehouses in your scope.
@@ -30,9 +30,9 @@ P.S: Picking Productivity is defined by the number of cartons picked per hour pa
 
 ### Objective: find the right incentive policy
 Currently, productive operators (operators that reach their daily productivity target) receive 5 euros per day in addition to their daily salary of 64 euros (after-tax).
-However, this incentive policy applied in 2 warehouses is not that effective; only 20% of the operators are reaching this target.
+However, this incentive policy applied in 2 warehouses is ineffective; only 20% of the operators are reaching this target.
 #### Question
-What should be the minimum daily bonus needed to reach 75% of the picking productivity target?
+What minimum daily bonus should be needed to reach 75% of the picking productivity target?
 #### Experiment
 Randomly select operators in your 22 warehouses
 #### Implement a daily incentive amount varying between 1 to 20 euros
