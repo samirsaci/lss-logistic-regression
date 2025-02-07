@@ -16,7 +16,7 @@ Find in the link below a short animated explained video to understand the concep
 </div>
 
 ### Article
-In this [Article](https://towardsdatascience.com/lean-six-sigma-with-python-logistic-regression-36d160e84548), we will implement Logistic 
+In this [Article](https://medium.com/towards-data-science/lean-six-sigma-with-python-logistic-regression-36d160e84548), we will implement Logistic 
 Regression with Python to estimate the impact of a daily productivity bonus on your warehouse operators' picking productivity.
 
 ### Scenario
